@@ -1,0 +1,6 @@
+Navy Blue- #0f2656
+Sky Blue- #008aff
+Red - #f15767
+Pink - #fdebed
+Green - #ebf9fa
+Yellow - #fff7e8
